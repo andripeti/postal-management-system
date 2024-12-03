@@ -5,6 +5,12 @@ VisualStudioVersion = 17.9.34616.47
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostalManagementSystem", "PostalManagementSystem\PostalManagementSystem.csproj", "{055E27C2-8880-4F56-9636-85473AF4959C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostalManagementSystem.DAL", "PostalManagementSystem.DAL\PostalManagementSystem.DAL.csproj", "{8DF69D96-4429-4F5E-8F35-22F0428631A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostalManagementSystem.BLL", "PostalManagementSystem.BLL\PostalManagementSystem.BLL.csproj", "{824FCA80-5622-4D11-BA32-139F0109CAC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostalManagementSystem.Common", "PostalManagementSystem.Common\PostalManagementSystem.Common.csproj", "{13C26DE1-0E5F-4AB7-AE99-AC61DE608C6A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +21,18 @@ Global
 		{055E27C2-8880-4F56-9636-85473AF4959C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{055E27C2-8880-4F56-9636-85473AF4959C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{055E27C2-8880-4F56-9636-85473AF4959C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DF69D96-4429-4F5E-8F35-22F0428631A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DF69D96-4429-4F5E-8F35-22F0428631A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DF69D96-4429-4F5E-8F35-22F0428631A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DF69D96-4429-4F5E-8F35-22F0428631A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{824FCA80-5622-4D11-BA32-139F0109CAC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{824FCA80-5622-4D11-BA32-139F0109CAC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{824FCA80-5622-4D11-BA32-139F0109CAC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{824FCA80-5622-4D11-BA32-139F0109CAC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13C26DE1-0E5F-4AB7-AE99-AC61DE608C6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13C26DE1-0E5F-4AB7-AE99-AC61DE608C6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13C26DE1-0E5F-4AB7-AE99-AC61DE608C6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13C26DE1-0E5F-4AB7-AE99-AC61DE608C6A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
