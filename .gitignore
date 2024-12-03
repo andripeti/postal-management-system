@@ -1,0 +1,44 @@
+# .NET build folders
+bin/
+obj/
+
+# User-specific files
+.vs/
+.vscode/
+.idea/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# ASP.NET temporary files
+aspnet_client/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer files (for Visual Studio and build tools)
+*.pdb
+*.publishsettings
+
+# VS Code files
+.vscode/
+
+# JetBrains Rider project files
+.idea/
+
+# OS generated files
+.DS_Store
+Desktop.ini
+
+# NPM dependencies (if using Node.js)
+node_modules/
+
+# Logs
+*.log
+
+# Backup files
+*~
